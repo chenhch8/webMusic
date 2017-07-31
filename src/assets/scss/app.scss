@@ -1,0 +1,36 @@
+/** IMPORTS **/
+
+@import "./variables.scss";
+
+/** GLOBALS **/
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: $black !important;
+    position: absolute;
+}
+
+#app {
+    font-family: -apple-system, BlinkMacSystemFont, PingFang SC, Helvetica Neue, STHeiti, Microsoft Yahei, Tahoma, Simsun, sans-serif;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    max-width: $maxWidth;
+    max-height: $maxHeight;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, 0);
+}
+
+// 水平居中
+.vel-center {
+    position: relative;
+    margin: 0 auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}

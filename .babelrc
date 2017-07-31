@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "es2015",
+        "babili",
+        "stage-2"
+        //  ["env", { "modules": false }]
+    ],
+    "plugins": ["transform-runtime"],
+    "comments": false
+}
