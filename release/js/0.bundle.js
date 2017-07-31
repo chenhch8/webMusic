@@ -6809,7 +6809,7 @@ if (false) {
 /* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/8825b03d.icon-search.png";
+module.exports = __webpack_require__.p + "img/8825b03d.icon-search.png";
 
 /***/ }),
 /* 89 */,

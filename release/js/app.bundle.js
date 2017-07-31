@@ -474,7 +474,7 @@ function format(song) {
 /***/ 13:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/f29e5041.Vue_Music_Blur.png";
+module.exports = __webpack_require__.p + "img/f29e5041.Vue_Music_Blur.png";
 
 /***/ }),
 

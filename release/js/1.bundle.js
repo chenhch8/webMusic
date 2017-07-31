@@ -1389,7 +1389,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAABVCAYAAAA4
 /* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/416a0c19.icon-like.png";
+module.exports = __webpack_require__.p + "img/416a0c19.icon-like.png";
 
 /***/ }),
 /* 134 */
@@ -1407,7 +1407,7 @@ module.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAABVCAYAAAA4
 /* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "images/9da9a38a.icon-list.png";
+module.exports = __webpack_require__.p + "img/9da9a38a.icon-list.png";
 
 /***/ }),
 /* 137 */
